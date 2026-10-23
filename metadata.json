@@ -1,0 +1,6 @@
+{
+  "name": "MathLover CCC",
+  "description": "An independent, student-led mathematics learning community for students across the seven City Colleges of Chicago.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
